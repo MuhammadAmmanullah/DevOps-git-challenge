@@ -1,0 +1,6 @@
+30c3ad2 Merge pull request #1 from MuhammadAmmanullah/development
+ece41fd fix: resolved merge conflict
+3723427 fix: staging label
+b3ba625 feat: updated script with staging env
+b8c77bf feat: initial commit with deploy script
+6708014 Add DevOps section to README
